@@ -1,8 +1,22 @@
-# React + Vite
+## Nike Reimagined 🏃‍♂️👟
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A sleek and modern **Nike** website redesign built with ⚛️ **React** and 🎨 **Tailwind CSS**.  
+This project showcases a fully **responsive** design, smooth ✨ animations, and a clean UI inspired by Nike’s iconic branding.  
+Deployed on ▲ **Vercel** for lightning-fast performance 🚀.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Tech Stack
+- **React** – Frontend library  
+- **Tailwind CSS** – Styling framework  
+- **Vite** – Development and build tool  
+- **Vercel** – Deployment platform  
+
+---
+
+## Installation
+
+```bash
+git clone https://github.com/adityadomle/nike-reimagined.git
+cd nike-reimagined
+npm install
